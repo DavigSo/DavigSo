@@ -74,6 +74,6 @@ Além do meu trabalho em QA, desenvolvi projetos acadêmicos e profissionais que
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
-Sou apaixonado por tecnologia e aprender coisas novas!
+
 
 
