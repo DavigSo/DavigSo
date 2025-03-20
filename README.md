@@ -2,7 +2,7 @@
 
 # Sobre Mim
 
-Sou um profissional apaixonado por qualidade de software, desenvolvimento e inovação, com experiência prática tanto em testes manuais quanto em automação. Durante meu período como estagiário em QA na Lean QA Tech (Jan/2024 – Dez/2024), participei ativamente na elaboração de casos de teste detalhados – abrangendo cenários positivos e negativos –, na execução de testes manuais (como cadastros, logins e fluxos de usuários) e na condução de testes de regressão para validar mudanças no código. Minha rotina incluía a identificação de bugs e a elaboração de relatórios claros, contribuindo para a melhoria contínua da experiência do usuário.
+Sou um profissional apaixonado por desenvolvimento, inovação e qualidade de software, com experiência prática tanto em testes manuais quanto em automação. Durante meu período como estagiário em QA na Lean QA Tech (Jan/2024 – Dez/2024), participei ativamente na elaboração de casos de teste detalhados – abrangendo cenários positivos e negativos –, na execução de testes manuais (como cadastros, logins e fluxos de usuários) e na condução de testes de regressão para validar mudanças no código. Minha rotina incluía a identificação de bugs e a elaboração de relatórios claros, contribuindo para a melhoria contínua da experiência do usuário.
 
 Além do meu trabalho em QA, desenvolvi projetos acadêmicos e profissionais que abrangem áreas como gestão de processos de negócio, análise de fluxo de informações, produção científica em finanças, desenvolvimento de sistemas de ouvidoria (em Java e Python), além de aplicações mobile e integração de interfaces com serviços web. Essas experiências me proporcionaram uma visão ampla e prática, aliando conhecimento técnico a um pensamento crítico voltado para a resolução de problemas.
 
@@ -52,8 +52,7 @@ Além do meu trabalho em QA, desenvolvi projetos acadêmicos e profissionais que
 
 # Contato
 
-- **LinkedIn:** [davi-sousa](https://www.linkedin.com/in/davi-sousa-/)
-- **E-mail:** davig4611@gmail.com
+
 
 <!-- [![Blog](https://abre.ai/sujeitoprogramador)](https://sujeitoprogramdor.com) -->
 
